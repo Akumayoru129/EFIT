@@ -1,2 +1,0 @@
-# EFIT
-English For IT
